@@ -1,1 +1,18 @@
-style
+h1 {
+  background: #C7DFDF;
+  color: #3B578B;
+}
+.poem {
+  left: 50px;
+  background: #08EAF6;
+  width: 500px;
+  border: solid 3px blue;
+  padding: 30px;
+  position:relative;
+}
+h1, h3 {
+  text-align:center;
+}
+.poem-txt {
+  padding: 20;
+}
