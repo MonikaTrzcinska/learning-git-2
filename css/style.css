@@ -1,4 +1,7 @@
-h1 {
+body {
+  background: grey;
+}
+  h1 {
   background: #C7DFDF;
   color: #3B578B;
 }
