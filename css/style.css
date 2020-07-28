@@ -6,7 +6,7 @@ h1 {
   left: 50px;
   background: #08EAF6;
   width: 500px;
-  border: solid 3px blue;
+  border: solid 5px blue;
   padding: 30px;
   position:relative;
 }
@@ -15,4 +15,5 @@ h1, h3 {
 }
 .poem-txt {
   padding: 20;
+  color: grey;
 }
